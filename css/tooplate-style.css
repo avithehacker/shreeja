@@ -583,6 +583,7 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
   .pricing-bottom {
+   text-align: center;
     position: relative;
   }
 
@@ -591,7 +592,8 @@ http://www.tooplate.com/view/2106-soft-landing
   }
 
   .pricing-btn {
-    position: absolute;
+    text-align: center;
+    position: center;
     top: 15px;
     right: 0;
     display: inline-block;
